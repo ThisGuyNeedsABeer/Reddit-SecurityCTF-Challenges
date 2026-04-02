@@ -93,7 +93,7 @@ Searching for Mt. Everest on Google Maps shows the following :
 
 - Mt. Everest Google Maps Entry: [Link](https://www.google.com/maps/place/Mt+Everest/@27.988175,86.915067,3839m/data=!3m2!1e3!4b1!4m6!3m5!1s0x39e854a215bd9ebd:0x576dcf806abbab2!8m2!3d27.9881569!4d86.9253667!16zL20vMGJsYmQ?entry=ttu&g_ep=EgoyMDI2MDMzMC4wIKXMDSoASAFQAw%3D%3D)
 
-![[https://raw.githubusercontent.com/ThisGuyNeedsABeer/Reddit-SecurityCTF-Challenges/refs/heads/main/OSINT/mt-everest-1.png]]
+![mt-everest-1.png](https://raw.githubusercontent.com/ThisGuyNeedsABeer/Reddit-SecurityCTF-Challenges/refs/heads/main/OSINT/I%20Need%20Your%20Help/mt-everest-1.png)
 
 From the Hillary Step reviews sorting by newest, I found a user profile **Dimitriusxiii**:
 
@@ -101,7 +101,7 @@ From the Hillary Step reviews sorting by newest, I found a user profile **Dimitr
 
 This was the next pivot point.
 
-![[https://raw.githubusercontent.com/ThisGuyNeedsABeer/Reddit-SecurityCTF-Challenges/refs/heads/main/OSINT/mt-everest-2.png]]
+![mt-everest-2.png](https://raw.githubusercontent.com/ThisGuyNeedsABeer/Reddit-SecurityCTF-Challenges/refs/heads/main/OSINT/I%20Need%20Your%20Help/mt-everest-2.png)
 
 ---
 
@@ -155,7 +155,7 @@ The challenge had explicitly said that I would need it “somewhere else,” so 
 - `MEOAQMI{13m_Ol_90_UjF3}`
 - `TCHNVTE{13t_Me_90_HoM3}`
   
-![[https://raw.githubusercontent.com/ThisGuyNeedsABeer/Reddit-SecurityCTF-Challenges/refs/heads/main/OSINT/cyber-chef-1.png]]
+![cyber-chef-1.png](https://raw.githubusercontent.com/ThisGuyNeedsABeer/Reddit-SecurityCTF-Challenges/refs/heads/main/OSINT/I%20Need%20Your%20Help/cyber-chef-1.png)
 
 That completed the first half of the challenge.
 
@@ -395,4 +395,4 @@ Opening `reward.png` revealed the final flag:
 
 - `CTF{w3b_3nd_crypt0_st4rt}`
   
-![[https://raw.githubusercontent.com/ThisGuyNeedsABeer/Reddit-SecurityCTF-Challenges/refs/heads/main/OSINT/flag.png]]
+![flag.png](https://raw.githubusercontent.com/ThisGuyNeedsABeer/Reddit-SecurityCTF-Challenges/refs/heads/main/OSINT/I%20Need%20Your%20Help/flag.png)
